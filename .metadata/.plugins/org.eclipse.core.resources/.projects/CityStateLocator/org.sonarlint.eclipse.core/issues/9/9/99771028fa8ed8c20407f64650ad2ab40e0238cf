@@ -1,0 +1,40 @@
+
+s
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Âõ–H•RBLOCKERZBUG
+[
+java:S3740$"/Provide the parametrized type for this generic.(…™µâH–RMAJORZ
+CODE_SMELL
+[
+java:S1128
+"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕH—RMINORZ
+CODE_SMELL
+_
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿH˜RMINORZ
+CODE_SMELL
+[
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿH™RMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHšRINFOZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿH›RMAJORZ
+CODE_SMELL
+i	java:S106%"9Replace this use of System.out or System.err by a logger.(ú¾­çÿÿÿÿÿHœRMAJORZ
+CODE_SMELL
+i	java:S106)"9Replace this use of System.out or System.err by a logger.(¾í€¿ÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+i	java:S106,"9Replace this use of System.out or System.err by a logger.(¼‰ÊûÿÿÿÿHRMAJORZ
+CODE_SMELL
+b
+java:S11352"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHŸRINFOZ
+CODE_SMELL
+b
+java:S1135;"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH RINFOZ
+CODE_SMELL
+d	java:S106F"9Replace this use of System.out or System.err by a logger.(˜âëªH¡RMAJORZ
+CODE_SMELL
+b
+java:S1135E"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¢RINFOZ
+CODE_SMELL
+d	java:S106H"9Replace this use of System.out or System.err by a logger.(öŞ¥ÏH£RMAJORZ
+CODE_SMELL
